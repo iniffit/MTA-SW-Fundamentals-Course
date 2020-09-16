@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroducingCS", "IntroducingCS\IntroducingCS.csproj", "{635338F6-67D7-4930-9F87-096E4DBD47EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroducingCS", "IntroducingCS\IntroducingCS.csproj", "{635338F6-67D7-4930-9F87-096E4DBD47EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_Statement", "if_Statement\if_Statement.csproj", "{490BEC9C-782A-4E55-9799-F893CD991645}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "if_Statement", "if_Statement\if_Statement.csproj", "{490BEC9C-782A-4E55-9799-F893CD991645}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifelse_Statement", "ifelse_Statement\ifelse_Statement.csproj", "{1C9D7D99-2EE3-4D77-AC57-DDDA9B3F01E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifelse_Statement", "ifelse_Statement\ifelse_Statement.csproj", "{1C9D7D99-2EE3-4D77-AC57-DDDA9B3F01E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch_Statement", "switch_Statement\switch_Statement.csproj", "{47318880-621A-461B-84D1-0EE5B5DE4447}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switch_Statement", "switch_Statement\switch_Statement.csproj", "{47318880-621A-461B-84D1-0EE5B5DE4447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while_Statement", "while_Statement\while_Statement.csproj", "{42D50AB9-F616-4484-8BFC-1B43BFE21154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dowhile_Statement", "dowhile_Statement\dowhile_Statement.csproj", "{0FC0068C-150F-4C19-BF80-1CE59C323D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for_Statement", "for_Statement\for_Statement.csproj", "{1BCBDEDE-D030-4EDC-88FA-9105F579F0D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach_Statement", "foreach_Statement\foreach_Statement.csproj", "{759E305C-2A59-4289-9849-16EF9904E18E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{47318880-621A-461B-84D1-0EE5B5DE4447}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47318880-621A-461B-84D1-0EE5B5DE4447}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47318880-621A-461B-84D1-0EE5B5DE4447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D50AB9-F616-4484-8BFC-1B43BFE21154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D50AB9-F616-4484-8BFC-1B43BFE21154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D50AB9-F616-4484-8BFC-1B43BFE21154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D50AB9-F616-4484-8BFC-1B43BFE21154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC0068C-150F-4C19-BF80-1CE59C323D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC0068C-150F-4C19-BF80-1CE59C323D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC0068C-150F-4C19-BF80-1CE59C323D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC0068C-150F-4C19-BF80-1CE59C323D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BCBDEDE-D030-4EDC-88FA-9105F579F0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCBDEDE-D030-4EDC-88FA-9105F579F0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCBDEDE-D030-4EDC-88FA-9105F579F0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCBDEDE-D030-4EDC-88FA-9105F579F0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759E305C-2A59-4289-9849-16EF9904E18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759E305C-2A59-4289-9849-16EF9904E18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759E305C-2A59-4289-9849-16EF9904E18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759E305C-2A59-4289-9849-16EF9904E18E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
