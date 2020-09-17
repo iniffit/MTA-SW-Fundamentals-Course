@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for_Statement", "for_Statem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach_Statement", "foreach_Statement\foreach_Statement.csproj", "{759E305C-2A59-4289-9849-16EF9904E18E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFactorial", "RecursiveFactorial\RecursiveFactorial.csproj", "{0152DAEE-676F-482B-AD83-149F2405F5AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{759E305C-2A59-4289-9849-16EF9904E18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{759E305C-2A59-4289-9849-16EF9904E18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{759E305C-2A59-4289-9849-16EF9904E18E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0152DAEE-676F-482B-AD83-149F2405F5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0152DAEE-676F-482B-AD83-149F2405F5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0152DAEE-676F-482B-AD83-149F2405F5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0152DAEE-676F-482B-AD83-149F2405F5AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
