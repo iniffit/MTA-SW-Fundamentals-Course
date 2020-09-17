@@ -1,0 +1,13 @@
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.exe
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.deps.json
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.runtimeconfig.json
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.runtimeconfig.dev.json
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.dll
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.pdb
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.csprojAssemblyReference.cache
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.AssemblyInfoInputs.cache
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.AssemblyInfo.cs
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.dll
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.pdb
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.genruntimeconfig.cache

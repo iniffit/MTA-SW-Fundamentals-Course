@@ -10,3 +10,16 @@ D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\dowhile_Statement\obj\Deb
 D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\dowhile_Statement\obj\Debug\netcoreapp3.1\dowhile_Statement.dll
 D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\dowhile_Statement\obj\Debug\netcoreapp3.1\dowhile_Statement.pdb
 D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\dowhile_Statement\obj\Debug\netcoreapp3.1\dowhile_Statement.genruntimeconfig.cache
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\dowhile_Statement\bin\Debug\netcoreapp3.1\dowhile_Statement.exe
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\dowhile_Statement\bin\Debug\netcoreapp3.1\dowhile_Statement.deps.json
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\dowhile_Statement\bin\Debug\netcoreapp3.1\dowhile_Statement.runtimeconfig.json
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\dowhile_Statement\bin\Debug\netcoreapp3.1\dowhile_Statement.runtimeconfig.dev.json
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\dowhile_Statement\bin\Debug\netcoreapp3.1\dowhile_Statement.dll
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\dowhile_Statement\bin\Debug\netcoreapp3.1\dowhile_Statement.pdb
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\dowhile_Statement\obj\Debug\netcoreapp3.1\dowhile_Statement.csprojAssemblyReference.cache
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\dowhile_Statement\obj\Debug\netcoreapp3.1\dowhile_Statement.AssemblyInfoInputs.cache
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\dowhile_Statement\obj\Debug\netcoreapp3.1\dowhile_Statement.AssemblyInfo.cs
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\dowhile_Statement\obj\Debug\netcoreapp3.1\dowhile_Statement.csproj.CoreCompileInputs.cache
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\dowhile_Statement\obj\Debug\netcoreapp3.1\dowhile_Statement.dll
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\dowhile_Statement\obj\Debug\netcoreapp3.1\dowhile_Statement.pdb
+C:\Users\tiff\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\dowhile_Statement\obj\Debug\netcoreapp3.1\dowhile_Statement.genruntimeconfig.cache
