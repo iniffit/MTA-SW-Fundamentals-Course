@@ -1,0 +1,12 @@
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.exe
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.deps.json
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.runtimeconfig.json
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.runtimeconfig.dev.json
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.dll
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.pdb
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.AssemblyInfoInputs.cache
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.AssemblyInfo.cs
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.csproj.CoreCompileInputs.cache
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.dll
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.pdb
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.genruntimeconfig.cache

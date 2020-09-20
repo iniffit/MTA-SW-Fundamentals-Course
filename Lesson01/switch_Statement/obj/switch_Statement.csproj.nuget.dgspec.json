@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiff\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\switch_Statement\\switch_Statement.csproj": {}
+    "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\switch_Statement\\switch_Statement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiff\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\switch_Statement\\switch_Statement.csproj": {
+    "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\switch_Statement\\switch_Statement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiff\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\switch_Statement\\switch_Statement.csproj",
+        "projectUniqueName": "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\switch_Statement\\switch_Statement.csproj",
         "projectName": "switch_Statement",
-        "projectPath": "C:\\Users\\tiff\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\switch_Statement\\switch_Statement.csproj",
-        "packagesPath": "C:\\Users\\tiff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiff\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\switch_Statement\\obj\\",
+        "projectPath": "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\switch_Statement\\switch_Statement.csproj",
+        "packagesPath": "C:\\Users\\tiffi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\switch_Statement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\tiff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tiffi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

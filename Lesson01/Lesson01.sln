@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "foreach_Statement", "foreac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveFactorial", "RecursiveFactorial\RecursiveFactorial.csproj", "{0152DAEE-676F-482B-AD83-149F2405F5AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingExceptions", "HandlingExceptions\HandlingExceptions.csproj", "{7FAF0A22-551E-41BC-BF67-5FB167E6206B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HandlingExceptions", "HandlingExceptions\HandlingExceptions.csproj", "{7FAF0A22-551E-41BC-BF67-5FB167E6206B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trycatchfinally", "trycatchfinally\trycatchfinally.csproj", "{F5730E2C-B732-4991-BF55-5A03841A025D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{7FAF0A22-551E-41BC-BF67-5FB167E6206B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FAF0A22-551E-41BC-BF67-5FB167E6206B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FAF0A22-551E-41BC-BF67-5FB167E6206B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5730E2C-B732-4991-BF55-5A03841A025D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5730E2C-B732-4991-BF55-5A03841A025D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5730E2C-B732-4991-BF55-5A03841A025D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5730E2C-B732-4991-BF55-5A03841A025D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
