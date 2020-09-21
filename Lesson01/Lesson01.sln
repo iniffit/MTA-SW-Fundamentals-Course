@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveFactorial", "Recur
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HandlingExceptions", "HandlingExceptions\HandlingExceptions.csproj", "{7FAF0A22-551E-41BC-BF67-5FB167E6206B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trycatchfinally", "trycatchfinally\trycatchfinally.csproj", "{F5730E2C-B732-4991-BF55-5A03841A025D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "trycatchfinally", "trycatchfinally\trycatchfinally.csproj", "{F5730E2C-B732-4991-BF55-5A03841A025D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookwork", "Bookwork\Bookwork.csproj", "{13146246-99C3-457B-BD2E-E02C59CD8C49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{F5730E2C-B732-4991-BF55-5A03841A025D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5730E2C-B732-4991-BF55-5A03841A025D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5730E2C-B732-4991-BF55-5A03841A025D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13146246-99C3-457B-BD2E-E02C59CD8C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13146246-99C3-457B-BD2E-E02C59CD8C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13146246-99C3-457B-BD2E-E02C59CD8C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13146246-99C3-457B-BD2E-E02C59CD8C49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

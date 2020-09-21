@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\RecursiveFactorial\\RecursiveFactorial.csproj": {}
+    "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson01\\RecursiveFactorial\\RecursiveFactorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\RecursiveFactorial\\RecursiveFactorial.csproj": {
+    "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson01\\RecursiveFactorial\\RecursiveFactorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\RecursiveFactorial\\RecursiveFactorial.csproj",
+        "projectUniqueName": "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson01\\RecursiveFactorial\\RecursiveFactorial.csproj",
         "projectName": "RecursiveFactorial",
-        "projectPath": "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\RecursiveFactorial\\RecursiveFactorial.csproj",
-        "packagesPath": "C:\\Users\\tiffi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\RecursiveFactorial\\obj\\",
+        "projectPath": "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson01\\RecursiveFactorial\\RecursiveFactorial.csproj",
+        "packagesPath": "C:\\Users\\Tiffini\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson01\\RecursiveFactorial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\tiffi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tiffini\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

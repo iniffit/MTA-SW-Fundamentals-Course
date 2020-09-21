@@ -10,3 +10,16 @@ C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfina
 C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.dll
 C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.pdb
 C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.genruntimeconfig.cache
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.exe
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.deps.json
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.runtimeconfig.json
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.runtimeconfig.dev.json
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.dll
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\trycatchfinally\bin\Debug\netcoreapp3.1\trycatchfinally.pdb
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.csprojAssemblyReference.cache
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.AssemblyInfoInputs.cache
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.AssemblyInfo.cs
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.csproj.CoreCompileInputs.cache
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.dll
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.pdb
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\trycatchfinally\obj\Debug\netcoreapp3.1\trycatchfinally.genruntimeconfig.cache

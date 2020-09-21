@@ -10,3 +10,4 @@ D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\for_Statement\bin\Debug\n
 D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\for_Statement\obj\Debug\netcoreapp3.1\for_Statement.dll
 D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\for_Statement\obj\Debug\netcoreapp3.1\for_Statement.pdb
 D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\for_Statement\obj\Debug\netcoreapp3.1\for_Statement.genruntimeconfig.cache
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\for_Statement\obj\Debug\netcoreapp3.1\for_Statement.csprojAssemblyReference.cache

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\if_Statement\\if_Statement.csproj": {}
+    "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson01\\if_Statement\\if_Statement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\if_Statement\\if_Statement.csproj": {
+    "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson01\\if_Statement\\if_Statement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\if_Statement\\if_Statement.csproj",
+        "projectUniqueName": "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson01\\if_Statement\\if_Statement.csproj",
         "projectName": "if_Statement",
-        "projectPath": "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\if_Statement\\if_Statement.csproj",
-        "packagesPath": "C:\\Users\\tiffi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson01\\if_Statement\\obj\\",
+        "projectPath": "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson01\\if_Statement\\if_Statement.csproj",
+        "packagesPath": "C:\\Users\\Tiffini\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson01\\if_Statement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\tiffi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tiffini\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

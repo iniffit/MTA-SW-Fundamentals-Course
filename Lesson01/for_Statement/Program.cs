@@ -10,7 +10,7 @@ namespace for_Statement
         }
         private static void ForTest()
         {
-            for (int i = 1; i <= 5; i++)
+            for (int i = 1; i <= 5)
             {
                 Console.WriteLine($"The value of i = {i}");
             }    

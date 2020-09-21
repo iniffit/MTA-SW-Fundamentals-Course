@@ -13,7 +13,7 @@ namespace trycatchfinally
         {
             StreamReader sr = null;
             try
-            {
+            {   // this file in on the laptop, not the desktop
                 sr = File.OpenText("C:/Users/tiffi/data.txt");
                 Console.WriteLine(sr.ReadToEnd());
             }

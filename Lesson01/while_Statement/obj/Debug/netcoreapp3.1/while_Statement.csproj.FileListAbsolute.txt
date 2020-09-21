@@ -10,3 +10,4 @@ D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\while_Statement\obj\Debug
 D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\while_Statement\obj\Debug\netcoreapp3.1\while_Statement.dll
 D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\while_Statement\obj\Debug\netcoreapp3.1\while_Statement.pdb
 D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\while_Statement\obj\Debug\netcoreapp3.1\while_Statement.genruntimeconfig.cache
+D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson01\while_Statement\obj\Debug\netcoreapp3.1\while_Statement.csprojAssemblyReference.cache
