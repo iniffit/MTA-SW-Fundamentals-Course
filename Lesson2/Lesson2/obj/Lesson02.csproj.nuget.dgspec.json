@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson2\\Lesson2\\Lesson02.csproj": {}
+    "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson2\\Lesson2\\Lesson02.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson2\\Lesson2\\Lesson02.csproj": {
+    "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson2\\Lesson2\\Lesson02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson2\\Lesson2\\Lesson02.csproj",
+        "projectUniqueName": "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson2\\Lesson2\\Lesson02.csproj",
         "projectName": "Lesson02",
-        "projectPath": "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson2\\Lesson2\\Lesson02.csproj",
-        "packagesPath": "C:\\Users\\Tiffini\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Learning\\MTA SW Fundamentals Course\\Lesson2\\Lesson2\\obj\\",
+        "projectPath": "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson2\\Lesson2\\Lesson02.csproj",
+        "packagesPath": "C:\\Users\\tiffi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiffi\\Documents\\GitHub\\MTA-SW-Fundamentals-Course\\Lesson2\\Lesson2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tiffini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tiffi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

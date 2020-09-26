@@ -10,3 +10,16 @@ D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson2\Lesson2\bin\Debug\netcorea
 D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson02.dll
 D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson02.pdb
 D:\GitHub\Learning\MTA SW Fundamentals Course\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson02.genruntimeconfig.cache
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson02.exe
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson02.deps.json
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson02.runtimeconfig.json
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson02.runtimeconfig.dev.json
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson02.dll
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson02.pdb
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson02.csprojAssemblyReference.cache
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson02.AssemblyInfoInputs.cache
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson02.AssemblyInfo.cs
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson02.csproj.CoreCompileInputs.cache
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson02.dll
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson02.pdb
+C:\Users\tiffi\Documents\GitHub\MTA-SW-Fundamentals-Course\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson02.genruntimeconfig.cache
