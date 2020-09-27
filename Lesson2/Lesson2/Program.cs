@@ -6,7 +6,9 @@ namespace Lesson2
     {
         static void Main(string[] args)
         {
-            Rectangle rect = new Rectangle(10.0, 20.0);
+            Rectangle rect = new Rectangle();
+            rect.Length = 10.0;
+            rect.Width = 20.0;
             double area = rect.GetArea();
             Console.WriteLine($"Area of Rectangle: {area}");
         }
@@ -15,10 +17,29 @@ namespace Lesson2
     {
         private double length;
         private double width;
-        public Rectangle(double l, double w)
+        public double Length
         {
-            length = l;
-            width = w;
+            get
+            {
+                return length;
+            }
+            set
+            {
+                if (value > 0.0)
+                    length = value;
+            }
+        }
+        public double Width
+        {
+            get
+            {
+                return width;
+            }
+            set
+            {
+                if (value > 0.0)
+                    width = value;
+            }
         }
         public double GetArea()
         {
