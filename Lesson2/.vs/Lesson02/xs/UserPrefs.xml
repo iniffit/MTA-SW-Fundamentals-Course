@@ -6,10 +6,8 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Lesson02" expanded="True">
-            <Node name="Lesson02" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="Lesson02" expanded="True" selected="True">
+            <Node name="Lesson02" expanded="True" />
           </Node>
         </State>
       </Pad>

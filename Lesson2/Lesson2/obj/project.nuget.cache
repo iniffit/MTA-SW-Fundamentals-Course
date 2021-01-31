@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JBTB5FtIOqFwGx/StkeIC96bIniYJHw1PoMTZaJffSRCzOGE5TqaOw8f7+avSquGnNBMSTdrRwH2J3iuAKZzRQ==",
+  "dgSpecHash": "3da69SCQITDZ9GZ7pnP36lx7tmzX+rv8Am8LtIo3HC1MzAWdjWGs9ALHsMYgb0Us1QpNaxQMBW2hxXmLLWHOYA==",
   "success": true,
   "projectFilePath": "/Users/tiffini/Documents/GitHub/MTA-SW-Fundamentals-Course/Lesson2/Lesson2/Lesson02.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/tiffini/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
